@@ -1,0 +1,392 @@
+﻿country,province,id,NAME_3,seismic
+Sicilia,Agrigento,84001,Agrigento,2
+Sicilia,Agrigento,84002,Alessandria Della Rocca,2
+Sicilia,Agrigento,84003,Aragona,2
+Sicilia,Agrigento,84004,Bivona,2
+Sicilia,Agrigento,84005,Burgio,2
+Sicilia,Agrigento,84006,Calamonaci,2
+Sicilia,Agrigento,84007,Caltabellotta,2
+Sicilia,Agrigento,84008,Camastra,4
+Sicilia,Agrigento,84009,Cammarata,2
+Sicilia,Agrigento,84010,Campobello Di Licata,4
+Sicilia,Agrigento,84011,Canicattì,4
+Sicilia,Agrigento,84012,Casteltermini,2
+Sicilia,Agrigento,84013,Castrofilippo,4
+Sicilia,Agrigento,84014,Cattolica Eraclea,2
+Sicilia,Agrigento,84015,Cianciana,2
+Sicilia,Agrigento,84016,Comitini,4
+Sicilia,Agrigento,84017,Favara,4
+Sicilia,Agrigento,84018,Grotte,4
+Sicilia,Agrigento,84019,Joppolo Giancaxio,2
+Sicilia,Agrigento,84020,Lampedusa E Linosa,4
+Sicilia,Agrigento,84021,Licata,4
+Sicilia,Agrigento,84022,Lucca Sicula,2
+Sicilia,Agrigento,84023,Menfi,1
+Sicilia,Agrigento,84024,Montallegro,2
+Sicilia,Agrigento,84025,Montevago,1
+Sicilia,Agrigento,84026,Naro,4
+Sicilia,Agrigento,84027,Palma Di Montechiaro,4
+Sicilia,Agrigento,84028,Porto Empedocle,2
+Sicilia,Agrigento,84029,Racalmuto,4
+Sicilia,Agrigento,84030,Raffadali,2
+Sicilia,Agrigento,84031,Ravanusa,4
+Sicilia,Agrigento,84032,Realmonte,2
+Sicilia,Agrigento,84033,Ribera,2
+Sicilia,Agrigento,84034,Sambuca Di Sicilia,2
+Sicilia,Agrigento,84035,San Biagio Platani,2
+Sicilia,Agrigento,84036,San Giovanni Gemini,2
+Sicilia,Agrigento,84037,Santa Elisabetta,2
+Sicilia,Agrigento,84038,Santa Margherita Di Belice,1
+Sicilia,Agrigento,84039,Sant' Angelo Muxaro,2
+Sicilia,Agrigento,84040,Santo Stefano Quisquina,2
+Sicilia,Agrigento,84041,Sciacca,2
+Sicilia,Agrigento,84042,Siculiana,2
+Sicilia,Agrigento,84043,Villafranca Sicula,2
+Sicilia,Caltanissetta,85001,Acquaviva Platani,4
+Sicilia,Caltanissetta,85002,Bompensiere,4
+Sicilia,Caltanissetta,85003,Butera,3
+Sicilia,Caltanissetta,85004,Caltanissetta,4
+Sicilia,Caltanissetta,85005,Campofranco,4
+Sicilia,Caltanissetta,85006,Delia,4
+Sicilia,Caltanissetta,85007,Gela,2
+Sicilia,Caltanissetta,85008,Marianopoli,4
+Sicilia,Caltanissetta,85009,Mazzarino,3
+Sicilia,Caltanissetta,85010,Milena,4
+Sicilia,Caltanissetta,85011,Montedoro,4
+Sicilia,Caltanissetta,85012,Mussomeli,4
+Sicilia,Caltanissetta,85013,Niscemi,2
+Sicilia,Caltanissetta,85014,Resuttano,2
+Sicilia,Caltanissetta,85015,Riesi,3
+Sicilia,Caltanissetta,85016,San Cataldo,4
+Sicilia,Caltanissetta,85017,Santa Caterina Villarmosa,2
+Sicilia,Caltanissetta,85018,Serradifalco,4
+Sicilia,Caltanissetta,85019,Sommatino,4
+Sicilia,Caltanissetta,85020,Sutera,4
+Sicilia,Caltanissetta,85021,Vallelunga Pratameno,4
+Sicilia,Caltanissetta,85022,Villalba,4
+Sicilia,Catania,87001,Aci Bonaccorsi,2
+Sicilia,Catania,87002,Aci Castello,2
+Sicilia,Catania,87003,Aci Catena,2
+Sicilia,Catania,87004,Acireale,2
+Sicilia,Catania,87005,Aci Sant' Antonio,2
+Sicilia,Catania,87006,Adrano,2
+Sicilia,Catania,87007,Belpasso,2
+Sicilia,Catania,87008,Biancavilla,2
+Sicilia,Catania,87009,Bronte,2
+Sicilia,Catania,87010,Calatabiano,2
+Sicilia,Catania,87011,Caltagirone,2
+Sicilia,Catania,87012,Camporotondo Etneo,2
+Sicilia,Catania,87013,Castel Di Iudica,2
+Sicilia,Catania,87014,Castiglione Di Sicilia,2
+Sicilia,Catania,87015,Catania,2
+Sicilia,Catania,87016,Fiumefreddo Di Sicilia,2
+Sicilia,Catania,87017,Giarre,2
+Sicilia,Catania,87018,Grammichele,2
+Sicilia,Catania,87019,Gravina Di Catania,2
+Sicilia,Catania,87020,Licodia Eubea,2
+Sicilia,Catania,87021,Linguaglossa,2
+Sicilia,Catania,87022,Maletto,2
+Sicilia,Catania,87023,Mascali,2
+Sicilia,Catania,87024,Mascalucia,2
+Sicilia,Catania,87025,Militello In Val Di Catania,2
+Sicilia,Catania,87026,Milo,2
+Sicilia,Catania,87027,Mineo,2
+Sicilia,Catania,87028,Mirabella Imbaccari,2
+Sicilia,Catania,87029,Misterbianco,2
+Sicilia,Catania,87030,Motta Sant' Anastasia,2
+Sicilia,Catania,87031,Nicolosi,2
+Sicilia,Catania,87032,Palagonia,2
+Sicilia,Catania,87033,Paternò,2
+Sicilia,Catania,87034,Pedara,2
+Sicilia,Catania,87035,Piedimonte Etneo,2
+Sicilia,Catania,87036,Raddusa,2
+Sicilia,Catania,87037,Ramacca,2
+Sicilia,Catania,87038,Randazzo,2
+Sicilia,Catania,87039,Riposto,2
+Sicilia,Catania,87040,San Cono,2
+Sicilia,Catania,87041,San Giovanni La Punta,2
+Sicilia,Catania,87042,San Gregorio Di Catania,2
+Sicilia,Catania,87043,San Michele Di Ganzaria,2
+Sicilia,Catania,87044,San Pietro Clarenza,2
+Sicilia,Catania,87045,Sant' Agata li Battiati,2
+Sicilia,Catania,87046,Sant' Alfio,2
+Sicilia,Catania,87047,Santa Maria Di Licodia,2
+Sicilia,Catania,87048,Santa Venerina,2
+Sicilia,Catania,87049,Scordia,2
+Sicilia,Catania,87050,Trecastagni,2
+Sicilia,Catania,87051,Tremestieri Etneo,2
+Sicilia,Catania,87052,Valverde,2
+Sicilia,Catania,87053,Viagrande,2
+Sicilia,Catania,87054,Vizzini,2
+Sicilia,Catania,87055,Zafferana Etnea,2
+Sicilia,Catania,87056,Mazzarrone,2
+Sicilia,Catania,87057,Maniace,2
+Sicilia,Catania,87058,Ragalna,2
+Sicilia,Enna,86001,Agira,2
+Sicilia,Enna,86002,Aidone,2
+Sicilia,Enna,86003,Assoro,2
+Sicilia,Enna,86004,Barrafranca,3
+Sicilia,Enna,86005,Calascibetta,2
+Sicilia,Enna,86006,Catenanuova,2
+Sicilia,Enna,86007,Centuripe,2
+Sicilia,Enna,86008,Cerami,2
+Sicilia,Enna,86009,Enna,2
+Sicilia,Enna,86010,Gagliano Castelferrato,2
+Sicilia,Enna,86011,Leonforte,2
+Sicilia,Enna,86012,Nicosia,2
+Sicilia,Enna,86013,Nissoria,2
+Sicilia,Enna,86014,Piazza Armerina,2
+Sicilia,Enna,86015,Pietraperzia,3
+Sicilia,Enna,86016,Regalbuto,2
+Sicilia,Enna,86017,Sperlinga,2
+Sicilia,Enna,86018,Troina,2
+Sicilia,Enna,86019,Valguarnera Caropepe,2
+Sicilia,Enna,86020,Villarosa,2
+Sicilia,Messina,83001,Alcara Li Fusi,2
+Sicilia,Messina,83002,Alì,1
+Sicilia,Messina,83003,Alì Terme,1
+Sicilia,Messina,83004,Antillo,2
+Sicilia,Messina,83005,Barcellona Pozzo Di Gotto,2
+Sicilia,Messina,83006,Basicò,2
+Sicilia,Messina,83007,Brolo,2
+Sicilia,Messina,83008,Capizzi,2
+Sicilia,Messina,83009,Capo d' Orlando,2
+Sicilia,Messina,83010,Capri Leone,2
+Sicilia,Messina,83011,Caronia,2
+Sicilia,Messina,83012,Casalvecchio Siculo,2
+Sicilia,Messina,83013,Castel Di Lucio,2
+Sicilia,Messina,83014,Castell' Umberto,2
+Sicilia,Messina,83015,Castelmola,2
+Sicilia,Messina,83016,Castroreale,2
+Sicilia,Messina,83017,Cesarò,2
+Sicilia,Messina,83018,Condrò,2
+Sicilia,Messina,83019,Falcone,2
+Sicilia,Messina,83020,Ficarra,2
+Sicilia,Messina,83021,Fiumedinisi,1
+Sicilia,Messina,83022,Floresta,2
+Sicilia,Messina,83023,Fondachelli-Fantina,2
+Sicilia,Messina,83024,Forza d' Agrò,2
+Sicilia,Messina,83025,Francavilla Di Sicilia,2
+Sicilia,Messina,83026,Frazzanò,2
+Sicilia,Messina,83027,Furci Siculo,1
+Sicilia,Messina,83028,Furnari,2
+Sicilia,Messina,83029,Gaggi,2
+Sicilia,Messina,83030,Galati Mamertino,2
+Sicilia,Messina,83031,Gallodoro,2
+Sicilia,Messina,83032,Giardini-Naxos,2
+Sicilia,Messina,83033,Gioiosa Marea,2
+Sicilia,Messina,83034,Graniti,2
+Sicilia,Messina,83035,Gualtieri Sicaminò,2
+Sicilia,Messina,83036,Itala,1
+Sicilia,Messina,83037,Leni,2
+Sicilia,Messina,83038,Letojanni,2
+Sicilia,Messina,83039,Librizzi,2
+Sicilia,Messina,83040,Limina,2
+Sicilia,Messina,83041,Lipari,2
+Sicilia,Messina,83042,Longi,2
+Sicilia,Messina,83043,Malfa,2
+Sicilia,Messina,83044,Malvagna,2
+Sicilia,Messina,83045,Mandanici,1
+Sicilia,Messina,83046,Mazzarrà Sant' Andrea,2
+Sicilia,Messina,83047,Merì,2
+Sicilia,Messina,83048,Messina,1
+Sicilia,Messina,83049,Milazzo,2
+Sicilia,Messina,83050,Militello Rosmarino,2
+Sicilia,Messina,83051,Mirto,2
+Sicilia,Messina,83052,Mistretta,2
+Sicilia,Messina,83053,Moio Alcantara,2
+Sicilia,Messina,83054,Monforte San Giorgio,2
+Sicilia,Messina,83055,Mongiuffi Melia,2
+Sicilia,Messina,83056,Montagnareale,2
+Sicilia,Messina,83057,Montalbano Elicona,2
+Sicilia,Messina,83058,Motta Camastra,2
+Sicilia,Messina,83059,Motta d' Affermo,2
+Sicilia,Messina,83060,Naso,2
+Sicilia,Messina,83061,Nizza Di Sicilia,1
+Sicilia,Messina,83062,Novara Di Sicilia,2
+Sicilia,Messina,83063,Oliveri,2
+Sicilia,Messina,83064,Pace Del Mela,2
+Sicilia,Messina,83065,Pagliara,1
+Sicilia,Messina,83066,Patti,2
+Sicilia,Messina,83067,Pettineo,2
+Sicilia,Messina,83068,Piraino,2
+Sicilia,Messina,83069,Raccuja,2
+Sicilia,Messina,83070,Reitano,2
+Sicilia,Messina,83071,Roccafiorita,2
+Sicilia,Messina,83072,Roccalumera,1
+Sicilia,Messina,83073,Roccavaldina,2
+Sicilia,Messina,83074,Roccella Valdemone,2
+Sicilia,Messina,83075,Rodì Milici,2
+Sicilia,Messina,83076,Rometta,1
+Sicilia,Messina,83077,San Filippo Del Mela,2
+Sicilia,Messina,83078,San Fratello,2
+Sicilia,Messina,83079,San Marco d' Alunzio,2
+Sicilia,Messina,83080,San Pier Niceto,2
+Sicilia,Messina,83081,San Piero Patti,2
+Sicilia,Messina,83082,San Salvatore Di Fitalia,2
+Sicilia,Messina,83083,Santa Domenica Vittoria,2
+Sicilia,Messina,83084,Sant' Agata di Militello,2
+Sicilia,Messina,83085,Sant' Alessio Siculo,1
+Sicilia,Messina,83086,Santa Lucia Del Mela,2
+Sicilia,Messina,83087,Santa Marina Salina,2
+Sicilia,Messina,83088,Sant' Angelo di Brolo,2
+Sicilia,Messina,83089,Santa Teresa Di Riva,1
+Sicilia,Messina,83090,San Teodoro,2
+Sicilia,Messina,83091,Santo Stefano Di Camastra,2
+Sicilia,Messina,83092,Saponara,1
+Sicilia,Messina,83093,Savoca,1
+Sicilia,Messina,83094,Scaletta Zanclea,1
+Sicilia,Messina,83095,Sinagra,2
+Sicilia,Messina,83096,Spadafora,2
+Sicilia,Messina,83097,Taormina,2
+Sicilia,Messina,83098,Torregrotta,2
+Sicilia,Messina,83099,Tortorici,2
+Sicilia,Messina,83100,Tripi,2
+Sicilia,Messina,83101,Tusa,2
+Sicilia,Messina,83102,Ucria,2
+Sicilia,Messina,83103,Valdina,2
+Sicilia,Messina,83104,Venetico,2
+Sicilia,Messina,83105,Villafranca Tirrena,1
+Sicilia,Messina,83106,Terme Vigliatore,2
+Sicilia,Messina,83107,Acquedolci,2
+Sicilia,Messina,83108,Torrenova,2
+Sicilia,Messina,83109,Unknown1,2
+Sicilia,Palermo,82001,Alia,2
+Sicilia,Palermo,82002,Alimena,2
+Sicilia,Palermo,82003,Aliminusa,2
+Sicilia,Palermo,82004,Altavilla Milicia,2
+Sicilia,Palermo,82005,Altofonte,2
+Sicilia,Palermo,82006,Bagheria,2
+Sicilia,Palermo,82007,Balestrate,2
+Sicilia,Palermo,82008,Baucina,2
+Sicilia,Palermo,82009,Belmonte Mezzagno,2
+Sicilia,Palermo,82010,Bisacquino,2
+Sicilia,Palermo,82011,Bolognetta,2
+Sicilia,Palermo,82012,Bompietro,2
+Sicilia,Palermo,82013,Borgetto,2
+Sicilia,Palermo,82014,Caccamo,2
+Sicilia,Palermo,82015,Caltavuturo,2
+Sicilia,Palermo,82016,Campofelice Di Fitalia,2
+Sicilia,Palermo,82017,Campofelice Di Roccella,2
+Sicilia,Palermo,82018,Campofiorito,2
+Sicilia,Palermo,82019,Camporeale,2
+Sicilia,Palermo,82020,Capaci,2
+Sicilia,Palermo,82021,Carini,2
+Sicilia,Palermo,82022,Castelbuono,2
+Sicilia,Palermo,82023,Casteldaccia,2
+Sicilia,Palermo,82024,Castellana Sicula,2
+Sicilia,Palermo,82025,Castronuovo Di Sicilia,2
+Sicilia,Palermo,82026,Cefalà Diana,2
+Sicilia,Palermo,82027,Cefalù,2
+Sicilia,Palermo,82028,Cerda,2
+Sicilia,Palermo,82029,Chiusa Sclafani,2
+Sicilia,Palermo,82030,Ciminna,2
+Sicilia,Palermo,82031,Cinisi,2
+Sicilia,Palermo,82032,Collesano,2
+Sicilia,Palermo,82033,Contessa Entellina,1
+Sicilia,Palermo,82034,Corleone,2
+Sicilia,Palermo,82035,Ficarazzi,2
+Sicilia,Palermo,82036,Gangi,2
+Sicilia,Palermo,82037,Geraci Siculo,2
+Sicilia,Palermo,82038,Giardinello,2
+Sicilia,Palermo,82039,Giuliana,2
+Sicilia,Palermo,82040,Godrano,2
+Sicilia,Palermo,82041,Gratteri,2
+Sicilia,Palermo,82042,Isnello,2
+Sicilia,Palermo,82043,Isola Delle Femmine,2
+Sicilia,Palermo,82044,Lascari,2
+Sicilia,Palermo,82045,Lercara Friddi,2
+Sicilia,Palermo,82046,Marineo,2
+Sicilia,Palermo,82047,Mezzojuso,2
+Sicilia,Palermo,82048,Misilmeri,2
+Sicilia,Palermo,82049,Monreale,2
+Sicilia,Palermo,82050,Montelepre,2
+Sicilia,Palermo,82051,Montemaggiore Belsito,2
+Sicilia,Palermo,82052,Palazzo Adriano,2
+Sicilia,Palermo,82053,Palermo,2
+Sicilia,Palermo,82054,Partinico,2
+Sicilia,Palermo,82055,Petralia Soprana,2
+Sicilia,Palermo,82056,Petralia Sottana,2
+Sicilia,Palermo,82057,Piana Degli Albanesi,2
+Sicilia,Palermo,82058,Polizzi Generosa,2
+Sicilia,Palermo,82059,Pollina,2
+Sicilia,Palermo,82060,Prizzi,2
+Sicilia,Palermo,82061,Roccamena,2
+Sicilia,Palermo,82062,Roccapalumba,2
+Sicilia,Palermo,82063,San Cipirello,2
+Sicilia,Palermo,82064,San Giuseppe Jato,2
+Sicilia,Palermo,82065,San Mauro Castelverde,2
+Sicilia,Palermo,82066,Santa Cristina Gela,2
+Sicilia,Palermo,82067,Santa Flavia,2
+Sicilia,Palermo,82068,Sciara,2
+Sicilia,Palermo,82069,Sclafani Bagni,2
+Sicilia,Palermo,82070,Termini Imerese,2
+Sicilia,Palermo,82071,Terrasini,2
+Sicilia,Palermo,82072,Torretta,2
+Sicilia,Palermo,82073,Trabia,2
+Sicilia,Palermo,82074,Trappeto,2
+Sicilia,Palermo,82075,Ustica,2
+Sicilia,Palermo,82076,Valledolmo,2
+Sicilia,Palermo,82077,Ventimiglia Di Sicilia,2
+Sicilia,Palermo,82078,Vicari,2
+Sicilia,Palermo,82079,Villabate,2
+Sicilia,Palermo,82080,Villafrati,2
+Sicilia,Palermo,82081,Scillato,2
+Sicilia,Palermo,82082,Blufi,2
+Sicilia,Ragusa,88001,Acate,2
+Sicilia,Ragusa,88002,Chiaramonte Gulfi,2
+Sicilia,Ragusa,88003,Comiso,2
+Sicilia,Ragusa,88004,Giarratana,2
+Sicilia,Ragusa,88005,Ispica,2
+Sicilia,Ragusa,88006,Modica,2
+Sicilia,Ragusa,88007,Monterosso Almo,2
+Sicilia,Ragusa,88008,Pozzallo,2
+Sicilia,Ragusa,88009,Ragusa,2
+Sicilia,Ragusa,88010,Santa Croce Camerina,2
+Sicilia,Ragusa,88011,Scicli,2
+Sicilia,Ragusa,88012,Vittoria,2
+Sicilia,Siracusa,89001,Augusta,2
+Sicilia,Siracusa,89002,Avola,2
+Sicilia,Siracusa,89003,Buccheri,2
+Sicilia,Siracusa,89004,Buscemi,2
+Sicilia,Siracusa,89005,Canicattini Bagni,2
+Sicilia,Siracusa,89006,Carlentini,2
+Sicilia,Siracusa,89007,Cassaro,2
+Sicilia,Siracusa,89008,Ferla,2
+Sicilia,Siracusa,89009,Floridia,2
+Sicilia,Siracusa,89010,Francofonte,2
+Sicilia,Siracusa,89011,Lentini,2
+Sicilia,Siracusa,89012,Melilli,2
+Sicilia,Siracusa,89013,Noto,2
+Sicilia,Siracusa,89014,Pachino,2
+Sicilia,Siracusa,89015,Palazzolo Acreide,2
+Sicilia,Siracusa,89016,Rosolini,2
+Sicilia,Siracusa,89017,Siracusa,2
+Sicilia,Siracusa,89018,Solarino,2
+Sicilia,Siracusa,89019,Sortino,2
+Sicilia,Siracusa,89020,Portopalo Di Capo Passero,2
+Sicilia,Siracusa,89021,Priolo Gargallo,2
+Sicilia,Trapani,81001,Alcamo,2
+Sicilia,Trapani,81002,Buseto Palizzolo,2
+Sicilia,Trapani,81003,Calatafimi-Segesta,2
+Sicilia,Trapani,81004,Campobello Di Mazara,2
+Sicilia,Trapani,81005,Castellammare Del Golfo,2
+Sicilia,Trapani,81006,Castelvetrano,2
+Sicilia,Trapani,81007,Custonaci,2
+Sicilia,Trapani,81008,Erice,2
+Sicilia,Trapani,81009,Favignana,2
+Sicilia,Trapani,81010,Gibellina,1
+Sicilia,Trapani,81011,Marsala,2
+Sicilia,Trapani,81012,Mazara Del Vallo,2
+Sicilia,Trapani,81013,Paceco,2
+Sicilia,Trapani,81014,Pantelleria,4
+Sicilia,Trapani,81015,Partanna,1
+Sicilia,Trapani,81016,Poggioreale,1
+Sicilia,Trapani,81017,Salaparuta,1
+Sicilia,Trapani,81018,Salemi,1
+Sicilia,Trapani,81019,Santa Ninfa,1
+Sicilia,Trapani,81020,San Vito Lo Capo,2
+Sicilia,Trapani,81021,Trapani,2
+Sicilia,Trapani,81022,Valderice,2
+Sicilia,Trapani,81023,Vita,2
+Sicilia,Trapani,81024,Petrosino,2
