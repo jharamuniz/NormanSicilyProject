@@ -1,0 +1,148 @@
+Name,Exist,Longitude,Latitude,Elevation,Rank,Dedication,MinYear,MaxYear,Province,Comune,Order,Seismic,Gender,HistProvince,Founder,Reign
+Saint Bartholomew of Lipari,Yes,14.9573575,38.466751,21,Abbey,Saint Bartholomew,1088,1088,Messina,Lipari,Benedictine,2,Male,Val Demone,Duke Robert Guiscard (Male),Norman Conquest of Sicily
+Christ the Savior of Patti,No,14.964094,38.139876,0,Abbey,Christ,1094,1094,Messina,Patti,Benedictine,2,Male,Val Demone,Count Roger I (Male),Reign of Count Roger I
+Saint Mary of Caccamo,No,13.663505,37.936117,0,Priory,the Virgin Mary,1098,1098,Palermo,Caccamo,Benedictine,2,Male,Val di Mazara,Count Robert Mandaguerra (Male),Reign of Count Roger I
+Holy Cross of Buccheri,No,14.8512177,37.127074,0,Priory,the Holy Cross,1134,1134,Siracusa,Buccheri,Benedictine,2,Male,Val di Noto,,Reign of King Roger II
+Saint John of Vizzini,No,14.753695,37.162151,0,Priory,Saint John,1134,1134,Catania,Vizzini,Benedictine,2,Male,Val di Noto,,Reign of King Roger II
+Saint Sophia of Vicari,No,13.571007,37.825702,0,Priory,Saint Sophia,1120,1120,Palermo,Vicari,Benedictine,2,Male,Val di Mazara,Robert of Milia (Male),Reign of Count Roger II
+Saint Mary of Tusa,No,14.2360416,37.983208,0,Priory,the Virgin Mary,1123,1123,Messina,Tusa,Benedictine,2,Male,Val Demone,,Reign of Count Roger II
+Saint Mary of Mazzarino,No,14.213745,37.304803,0,Priory,the Virgin Mary,1134,1134,Caltanissetta,Mazzarino,Benedictine,3,Male,Val di Noto,,Reign of King Roger II
+Saint Mary of Butera,No,14.1845535,37.187595,0,Priory,the Virgin Mary,1125,1125,Caltanissetta,Butera,Benedictine,3,Male,Val di Noto,,Reign of Count Roger II
+Saint Anastasia in Mistretta,No,14.362704,37.92746,0,Abbey,Saint Anastasia,1122,1122,Messina,Mistretta,Basilian,2,Male,Val Demone,Matthew of Creun (Male),Reign of Count Roger II
+Saint Andrew of Bebene,No,13.35814,38.098661,0,Abbey,Saint Andrew,1187,1187,Palermo,Palermo,Basilian,2,Male,Val di Mazara,,Reign of King William II
+Saint Anne of Messina,No,15.5533274,38.180839,0,Abbey,Saint Anne,1178,1179,Messina,Messina,Basilian,1,Female,Val Demone,Ola Grafeos,Reign of King William II
+Saint Anne of Monteforte,No,13.273087,37.389294,0,Abbey,Saint Anne,1131,1131,Agrigento?,Capo Bianco?,Basilian,,Male,Val di Mazara,,Reign of King Roger II
+Saint Michael Archangel of Brolo,Yes,14.887604,38.110529,411,Abbey,Saint Michael the Archangel,1084,1084,Messina,Brolo,Basilian,2,Male,Val Demone,Count Roger I (Male),Norman Conquest of Sicily
+Saint Barbarus of San Marco,No,14.7005667,38.072832,0,Abbey,Saint Barbarus,,1109,Messina,San Marco d' Alunzio,Basilian,2,Male,Val Demone,,Regency of Countess Adelasia
+Saint Basil of Naso,No,14.78688,38.122212,0,Abbey,Saint Basil,1080,1080,Messina,Naso,Basilian,2,Male,Val Demone,,Norman Conquest of Sicily
+Saint Basil of Troina,No,14.5993704,37.782591,0,Abbey,Saint Basil,1131,1131,Enna,Troina,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint Constantine of Malet,No,14.8627627,37.828641,0,Abbey,Saint Constantine,1131,1131,Catania,Maletto,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint Cosmas of Gonata,Yes,14.081389,37.885556,0,Abbey,Saint Cosmas,1142,1143,Palermo,Castelbuono,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint Elias of Embula,Yes,14.5986194,37.784482,0,Abbey,Saint Elias,1094,1094,Enna,Troina,Basilian,2,Male,Val Demone,Count Roger I (Male),Reign of Count Roger I
+Saint Elias of Scala Oliverii,No,15.0594847,38.124286,0,Abbey,Saint Elias,1131,1131,Messina,Oliveri,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint Felix of San Marco,No,14.6997621,38.072883,0,Abbey,Saint Felix,1131,1131,Messina,San Marco d' Alunzio,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint George of the Kemonia,Yes,13.3544897,38.10991,24,Abbey,Saint George,1148,1148,Palermo,Palermo,Basilian,2,Male,Val di Mazara,,Reign of King Roger II
+Saint George of Triocala,No,13.2177298,37.573851,0,Abbey,Saint George,1098,1098,Agrigento,Caltabellotta,Basilian,2,Male,Val di Mazara,Count Roger I (Male),Reign of Count Roger I
+Saint George of Agrigento,No,13.5771576,37.311433,0,Abbey,Saint George,,1154,Adrano,Agrigento,Basilian,2,Male,Val di Mazara,,Reign of King William I
+Saint Gregory of Gypso,No,15.4674759,38.235713,0,Abbey,Saint Gregory,,,Messina?,Messina?,Basilian,,Male,Val Demone,,
+Saint Onufrius of Calatabiet,No,15.32228,37.957175,411,Abbey,Saint Onufrius,1131,1131,Messina,Casalvecchio Siculo,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint James of Calò,No,15.1319995,38.016335,0,Abbey,Saint James,1131,1131,Messina,Novara di Sicilia,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint John of the Greeks,No,15.5533274,38.190827,0,Abbey,Saint John,1093,1094,Messina,Messina,Basilian,1,Female,Val Demone,,Reign of Count Roger I
+Saint John of Psichro,Yes,15.014426,37.889053,590,Abbey,Saint John,1131,1131,Catania,Randazzo,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint Leo of Messina,No,15.5210473,38.190827,0,Abbey,Saint Leo,1131,1131,Messina,Messina,Basilian,1,Male,Val Demone,,Reign of King Roger II
+Saint Mary of Ambuto,No,,,,Abbey,the Virgin Mary,,1101,,,Basilian,,Male,,Count Roger I (Male),Regency of Countess Adelasia
+Saint Mary de Alto de Jummariis,Yes,12.612731,37.651731,27,Abbey,the Virgin Mary,,1144,Trapani,Mazara,Basilian,2,Male,Val di Mazara,,Reign of King Roger II
+Saint Mary of Bordonaro,No,15.5135857,38.175434,0,Abbey,the Virgin Mary,1174,1182,Messina,Messina,Basilian,,Male,Val Demone,Ola Grafeos,Reign of King William II
+Saint Mary of Campogrosso,Yes,13.5638698,38.037327,0,Abbey,the Virgin Mary,,1134,Palermo,Altavilla Milicia,Basilian,2,Male,Val di Mazara,,Reign of King Roger II
+Saint Mary of the Crypt,No,13.361046,38.113141,77,Abbey,the Virgin Mary,1063,1081,Palermo,Palermo,Basilian,2,Male,Val di Mazara,,Norman Conquest of Sicily
+Saint Mary of Gala,Yes,15.233962,38.119878,260,Abbey,the Virgin Mary,1105,1105,Messina,Barcellona Pozzo di Gotto,Basilian,2,Male,Val Demone,Countess and Regent Adelasia (Female),Regency of Countess Adelasia
+Saint Mary of Mallimachi,No,14.8055513,38.083719,0,Abbey,the Virgin Mary,1131,1131,Messina?,Castell'Umberto?,Basilian,,Male,Val Demone?,,Reign of King Roger II
+Saint Mary of Mandanici,Yes,15.33537,37.995241,319,Abbey,the Virgin Mary,1100,1100,Messina,Mandanici,Basilian,1,Male,Val Demone,Count Roger I (Male),Reign of Count Roger I
+Saint Mary of the Grotto,Yes,12.4424612,37.799186,53,Abbey,the Virgin Mary,1145,1145,Trapani,Marsala,Basilian,2,Male,Val di Mazara,Admiral? Christodoulos? (Male),Reign of King Roger II
+Saint Mary of Massa,No,15.5368073,38.274977,0,Abbey,the Virgin Mary,,1114,Messina,Messina,Basilian,1,Male,Val Demone,Nicholas Grafeos (Male),Reign of Count Roger II
+Saint Mary of Mili,Yes,15.490884,38.124229,167,Abbey,the Virgin Mary,1090,1090,Messina,Messina,Basilian,1,Male,Val Demone,Count Roger I (Male),Norman Conquest of Sicily
+Saint Mary of the Admiral,No,13.362868,38.114766,15,Abbey,the Virgin Mary,1140,1140,Palermo,Palermo,Basilian,2,Female,Val di Mazara,Admiral George of Antioch (Male),Reign of King Roger II
+Saint Mary of Scala,Yes,14.9212254,37.561707,300,Abbey,the Virgin Mary,,1166,Catania,Patern�,Basilian,2,Male,Val Demone,Hermit Steven (Male),Regency of Queen Margaret of Navarre
+Saint Mary of Vicari,No,13.571007,37.825702,0,Abbey,the Virgin Mary,,1097,Palermo,Vicari,Basilian,2,Male,Val di Mazara,Count Roger I (Male),Reign of Count Roger I
+Saint Mercurius of Troina,No,14.60082,37.78525,0,Abbey,Saint Mercurius,1131,1131,Enna,Troina,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint Michael of Mazara,Yes,12.590779,37.653498,12,Abbey,Saint Michael the Archangel,1124,1124,Trapani,Mazara,Basilian,2,Female,Val di Mazara,Admiral George of Antioch (Male),Reign of Count Roger II
+Christ the Savior in Messina,No,15.5210473,38.190827,0,Abbey,Christ,,,Messina,Messina,Basilian,1,Female,Val Demone,,
+Saint Michael of Ficarra,No,14.8274471,38.110405,0,Abbey,Saint Michael the Archangel,1131,1131,Messina,Ficarra,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint Michael of Troina,Yes,14.6071177,37.773251,853,Abbey,Saint Michael the Archangel,1081,1081,Enna,Troina,Basilian,2,Male,Val Demone,Count Roger I (Male),Norman Conquest of Sicily
+Saint Nicander of Messina,No,15.554167,38.216111,0,Abbey,Saint Nicander,1131,1131,Messina,Messina,Basilian,1,Male,Val Demone,,Reign of King Roger II
+Saint Nicander of San Nicone,No,15.4367602,38.050838,0,Abbey,Saint Nicander,1093,1093,Messina?,Italà?,Basilian,,Male,Val Demone?,Count Roger I (Male),Reign of Count Roger I
+Saint Nicholas of Canneto,No,14.1845535,37.187595,0,Abbey,Saint Nicholas,1131,1131,Caltanissetta,Butera,Basilian,3,Male,Val di Noto,,Reign of King Roger II
+Saint Nicholas of Fico,Yes,14.916375,38.046258,665,Abbey,Saint Nicholas,,1101,Messina,Raccuja,Basilian,2,Male,Val Demone,Count Roger I (Male),Regency of Countess Adelasia
+Saint Nicholas of Gurguro,No,13.3336542,38.078718,0,Abbey,Saint Nicholas,,1141,Palermo,Palermo,Basilian,2,Male,Val di Mazara,Theodore of Antioch (Male),Reign of King Roger II
+Saint Nicholas of Paternò,No,14.896241,37.56779,0,Abbey,Saint Nicholas,,1174,Catania,Patern�,Basilian,2,Male,Val Demone,Geoffrey Secretus (Male),Reign of King William II
+Saint Nicholas of Pellera,No,15.010865,37.933354,0,Abbey,Saint Nicholas,,1112,Messina,Roccella Valdemone,Basilian,2,Male,Val Demone,Countess and Regent Adelasia (Female),Regency of Countess Adelasia
+Saint Nicholas Regale,Yes,12.586792,37.653762,2,Abbey,Saint Nicholas,1091,1109,Trapani,Mazara,Basilian,2,Male,Val di Mazara,,
+Saint Nicholas of Ysa,No,15.4688599,38.234883,0,Abbey,Saint Nicholas,1131,1131,Messina?,Gesso?,Basilian,,Male,Val Demone?,,Reign of King Roger II
+Saint Pancras of San Fratello,Yes,14.59728554,38.032892,703,Abbey,Saint Pancras,1131,1131,Messina,San Fratello,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint Pantaleon of the Presbyter Scholarios,No,12.4681852,37.867653,0,Abbey,Saint Pantaleon,,1098,Trapani?,Motya?,Basilian,,Male,Val di Mazara?,Scholarios (Male),Reign of Count Roger I
+Saint Peter of Deca,Yes,14.686714,38.085164,88,Abbey,Saint Peter,1131,1131,Messina,Torrenova,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint Peter of Largo Flumine,No,13.6040968,37.679893,0,Abbey,Saint Peter,1131,1131,Palermo?,Castronovo di Sicilia?,Basilian,,Male,Val di Mazara?,,Reign of King Roger II
+Saints Peter and Paul of Agro,Yes,15.3084088,37.947081,142,Abbey,Saint Peter & Saint Paul,1115,1115,Messina,Casalvecchio Siculo,Basilian,2,Male,Val Demone,Count Roger II (Male),Reign of Count Roger II
+Saints Peter and Paul of Itala,Yes,15.440424,38.046484,237,Abbey,Saint Peter & Saint Paul,1092,1092,Messina,Italà,Basilian,1,Male,Val Demone,Count Roger I (Male),Reign of Count Roger I
+Saint Philip of Fragalà,Yes,14.741713,38.070509,523,Abbey,Saint Philip,1090,1090,Messina,Frazzanò,Basilian,2,Male,Val Demone,Count Roger I (Male),Norman Conquest of Sicily
+Saint Philip the Great,No,15.5003272,38.165461,0,Abbey,Saint Philip,1100,1100,Messina,San Filippo Superiore?,Basilian,,Male,Val Demone?,Count Roger I (Male),Reign of Count Roger I
+Saint Philip,No,15.2730725,38.169739,0,Abbey,Saint Philip,,1101,Messina,Santa Lucia del Mela,Basilian,2,Male,Val Demone,Count Roger I (Male),Regency of Countess Adelasia
+Christ the Savior in Lingua Phari,No,15.562538,38.196592,0,Abbey,Christ,1131,1131,Messina,Messina,Basilian,1,Male,Val Demone,King Roger II (Male),Reign of King Roger II
+Saint Nicholas of Butana,No,,,,Abbey,Saint Nicholas,1080,1080,,,Basilian,,Male,,,Norman Conquest of Sicily
+Christ the Savior in Palermo,Yes,13.3586443,38.114391,55,Abbey,Christ,,,Palermo,Palermo,Basilian,2,Female,Val di Mazara,,
+Christ the Savior of Placa,Yes,15.1010408,37.91531,495,Abbey,Christ,1092,1092,Messina,Francavilla di Sicilia,Basilian,2,Male,Val Demone,,Reign of Count Roger I
+Saint Steven of Messina,Yes,15.478462,38.100772,144,Abbey,Saint Steven,1134,1134,Messina,Messina,Basilian,1,Male,Val Demone,,Reign of King Roger II
+Saint Theodore of Milazzo,No,15.268428,38.187244,0,Abbey,Saint Theodore,1131,1131,Messina,Milazzo,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint Theodore of Mirto,No,14.7496803,38.084707,0,Abbey,Saint Theodore,,1130,Messina,Mirto,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Holy Trinity of Delia,Yes,12.7541969,37.685804,149,Abbey,the Holy Trinity,1392,1392,Trapani,Castelvetrano,Basilian,2,Male,Val di Mazara,,
+Saint Venera of Vanella,Yes ?,15.2167096,38.044056,0,Abbey,Saint Venera,1131,1131,Messina,Castroreale,Basilian,2,Male,Val Demone,,Reign of King Roger II
+Saint Agatha of Catania,Yes,15.092612,37.518963,66,Abbey,Christ & the Virgin Mary & Saint Agatha,1091,1091,Catania,Catania,Benedictine,2,Male,Val Demone,Count Roger I (Male),Norman Conquest of Sicily
+Saint Leo of Pannachio,No,14.9936716,37.751141,0,Priory,Saint Leo,1137,1137,Catania,Nicolosi,Benedictine,2,Male,Val Demone,Count of Paternò and Policastro Henry (Male),Reign of King Roger II
+Saint Nicholas de Arena,No,,,,Grange,Saint Nicholas,1156,1156,,,Benedictine,,Male,,Count of Butera and Policastro Simon (Male),Reign of King William I
+Saint Mary of Robore Grosso,No,14.8580471,37.648417,0,Priory,the Virgin Mary,1134,1134,Catania,Adrano,Benedictine,2,Male,Val Demone,,Reign of King Roger II
+Saint Lucy of Aderna,Yes,14.83369,37.662844,558,Abbey,Saint Lucy,1158,1158,Catania,Adrano,Benedictine,2,Female,Val Demone,Countess Adelasia (Granddaughter of Count Roger I) (Female),Reign of King William I
+Saint Mary of Licodia,Yes,14.887793,37.616163,446,Abbey,the Virgin Mary,1143,1143,Catania,Santa Maria di Licodia,Benedictine,2,Male,Val Demone,Count of Butera and Policastro Simon (Male)|Countess of Butera and Policastro Thomasia (Female),Reign of King Roger II
+Saint John of the Hermits,Yes,13.3547141,38.109736,24,Abbey,Saint John,1148,1148,Palermo,Palermo,Benedictine,2,Male,Val di Mazara,King Roger II (Male),Reign of King Roger II
+Saint Mary of Adriano,Yes,13.3328134,37.645544,733,Priory,the Virgin Mary,1157,1157,Palermo,Palazzo Adriano,Benedictine,2,Male,Val di Mazara,King William I (Male),Reign of King William I
+Saint Mary Nuova,Yes,13.2918855,38.078259,256,Abbey,the Virgin Mary,1174,1174,Palermo,Monreale,Cluniac,2,Male,Val di Mazara,King William II (Male),Reign of King William II
+Saint Mary of Maniace,Yes,14.831383,37.858033,754,Abbey,the Virgin Mary,1105,1105,Catania,Bronte,Benedictine,2,Male,Val Demone,Count Roger I (Male)|Countess Adelasia (Female),Regency of Countess Adelasia
+Saint Mary of Jummarriis,Yes,13.08785,37.507266,73,Priory,the Virgin Mary,1100,1136,Agrigento,Sciacca,Cluniac,2,Male,Val di Mazara,Countess Juliet (Female),
+Holy Spirit of Buscemi,Yes,14.8978519,37.093178,623,Priory,the Holy Spirit,1192,1192,Siracusa,Buscemi,Benedictine,2,Male,Val di Noto,Count of Ragusa William of Marsico (Male)|Countess of Ragusa Alphana (Female),Joint Rule of Kings Tancred and Roger III
+Saint Mary of Ustica,No,13.168807,38.703677,0,Priory,the Virgin Mary,1194,1194,Palermo,Ustica,Benedictine,2,Male,Val di Mazara,,Reign of King William III
+Saint Mary della Scala,Yes,15.514933,38.213066,278,Abbey,the Virgin Mary,,1101,Messina,Messina,Benedictine,1,Female,Val Demone,Count Roger I (Male)|Countess Adelasia (Female),Regency of Countess Adelasia
+Saint Mary de Monialibus,No,15.281103,37.069723,0,Priory,the Virgin Mary,,,Siracusa,Siracusa,Benedictine,2,Female,Val di Noto,,
+Saint Mary Magdalene of Corleone,No,13.2995746,37.813507,0,Abbey,Saint Mary Magdalene,1151,1151,Palermo,Corleone,Benedictine,2,Female,Val di Mazara,,Reign of King Roger II
+Abbey of the Holy Trinity of the Chancellor in Palermo,Yes,13.3683437,38.113198,12,Abbey,the Holy Trinity,1182,1200,Palermo,Palermo,Cistercian,2,Male,Val di Mazara,Royal Vice-Chancellor Matthew of Agello (Male),
+Saint Mary Martorana,No,13.3620184,38.114825,16,Abbey,the Virgin Mary,1193,1193,Palermo,Palermo,Benedictine,2,Female,Val di Mazara,Geoffrey of Martirano (Male)|Aloysa of Martirano (Female),Joint Rule of Kings Tancred and Roger III
+Saint Angelo of Prizzi,No,13.4333844,37.720884,0,Abbey,Saint Michael the Archangel,1151,1159,Palermo,Prizzi,Cistercian,2,Female,Val di Mazara,Matthew Bonell (Male),
+Saint Christopher of Prizzi,No,13.4333844,37.720884,0,Priory,Saint Christopher,,,Palermo,Prizzi,Cistercian,2,Male,Val di Mazara,Matthew Bonell (Male),
+Holy Spirit of Palermo,Yes,13.362695,38.099818,34,Abbey,the Holy Spirit,1168,1186,Palermo,Palermo,Cistercian,2,Male,Val di Mazara,Archbishop of Palermo Walter Offamil (Male),
+Holy Trinity of Refesio,Yes,13.343851,37.608188,806,Abbey,the Holy Trinity,1061,1179,Agrigento,Burgio,Cistercian,2,Male,Val di Mazara,Castellan Ansaldus (Male),
+Saint Mary of Licodia (Summer Abbey),Yes,14.9154348,37.657174,847,Abbey,the Virgin Mary,1143,1143,Catania,Santa Maria di Licodia,Benedictine,2,Male,Val Demone,Count of Butera and Policastro Simon (Male)|Countess of Butera and Policastro Thomasia (Female),Reign of King Roger II
+Saint Mary of the Chancellor or of the Latins,No,13.3606459,38.116865,12,Abbey,the Virgin Mary,1169,1169,Palermo,Palermo,Benedictine,2,Female,Val di Mazara,Royal Vice-Chancellor Matthew of Agello (Male),Regency of Queen Margaret of Navarre
+Saint Peter of Sclafani,No,13.855695,37.82149,0,,Saint Peter,,,Palermo,Sclafani Bagni,Augustinian Canons,2,Male,Val di Mazara,,
+Saint Mary of Novara,Yes,15.104299,37.999851,533,Abbey,the Virgin Mary,1171,1171,Messina,Novara di Sicilia,Cistercian,2,Male,Val Demone,,Regency of Queen Margaret of Navarre
+Saint Mary of Roccamadore,Yes,15.523231,38.140598,27,Abbey,the Virgin Mary,1194,1194,Messina,Messina,Cistercian,1,Male,Val Demone,Count of Paternò Bartholomew of Luci (Male),Reign of King William III
+Saint Lucy of Noto,No,15.068383,36.889834,0,Priory,Saint Lucy,1103,1103,Siracusa,Noto,Augustinian Canons,2,Male,Val di Noto,Count Roger I (Male),Regency of Countess Adelasia
+Saint Peter in Palermo,No,13.3569992,38.117699,0,,Saint Peter,1116,1116,Palermo,Palermo,Augustinian Canons,2,Male,Val di Mazara,,Reign of Count Roger II
+Saint James in Partinico,No,13.116553,38.045107,0,,Saint James,,,Palermo,Partinico,Augustinian Canons,2,Male,Val di Mazara,,
+Saint Stephan of Castronuovo,No,13.6017081,37.679698,0,,Saint Steven,,,Palermo?,Castronovo di Sicilia?,Augustinian Canons,,Male,Val di Mazara?,,
+Saint Mary of Castronovo,No,13.602676,37.678159,0,,the Virgin Mary,,,Palermo?,Castronovo di Sicilia?,Augustinian Canons,,Male,Val di Mazara?,,
+Saint Matthew of Messina,No,15.5210473,38.190827,0,,Saint Matthew,,,Messina,Messina,Augustinian Canons,1,Male,Val Demone,,
+Saint Eunufrius of Calatabiano,No,15.2333918,37.823031,0,,Saint Onufrius,,,Catania,Calatabiano,Augustinian Canons,2,Male,Val Demone,,
+Saint George of Lentini,No,14.996815,37.288121,0,,Saint George,,,Siracusa,Lentini,Augustinian Canons,2,Male,Val di Noto,,
+Saint Lucy of Rahalbiato,No,15.068268,36.889968,0,,Saint Lucy,,,Siracusa,Noto,Augustinian Canons,2,Male,Val di Noto,,
+Saint George of Hares,No,,,,,Saint George,,,,,Augustinian Canons,,Male,,,
+Saint Nicholas of Corleone,No,13.2995746,37.813507,0,,Saint Nicholas,,,Palermo,Corleone,Augustinian Canons,2,Male,Val di Mazara,,
+Saint Peter of Milazzo,No,15.2433448,38.218307,0,,Saint Peter,,,Messina,Milazzo,Augustinian Canons,2,Male,Val Demone,,
+Saint Cataldo,No,,,,,Saint Cataldo,,,,,Augustinian Canons,,Male,,,
+Christ the Savior and Saints Peter and Paul of Cefalù,No,14.0233794,38.039969,47,Abbey,Christ & Saint Peter & Saint Paul,1131,1131,Palermo,Cefalù,Augustinian Canons,2,Male,Val Demone,King Roger II (Male),Reign of King Roger II
+Saint Lucy,No,15.281103,37.069723,0,Priory,Saint Lucy,1140,1140,Siracusa,Siracusa,Augustinian Canons,2,Male,Val di Noto,,Reign of King Roger II
+Saint George of Gratteri,Yes,13.963844,37.952862,665,Priory,Saint George,1155,1155,Palermo,Gratteri,Premonstratensian Canons,2,Male,Val Demone,Duke of Apulia Roger (Male),Reign of King William I
+Saint Anne of Gala,No,15.3,38.07,0,Priory,Saint Anne,1123,1123,Messina,Barcellona Pozzo di Gotto,Benedictine,2,Male,Val Demone,Countess Adelasia (Female),Reign of Count Roger II
+Saint Mary of Jehosaphat,Yes,14.8946395,37.565776,256,Priory,the Virgin Mary,1140,1140,Catania,Patern�,Benedictine,2,Male,Val Demone,,Reign of King Roger II
+Saint Mary Magdalene of Jehosaphat,No,15.292174,38.043722,0,Priory,Saint Mary Magdalene,1140,1140,Messina,Messina,Benedictine,1,Male,Val Demone,,Reign of King Roger II
+Saint Mary of Calatahameth,No,12.880417,38.02643,0,Priory,the Virgin Mary,1100,1100,Trapani,Castellammare del Golfo,Benedictine,2,,Val di Mazara,,Reign of Count Roger I
+Saint Philip of Agira,Yes,14.5184819,37.656932,608,Priory,Saint Philip of Agira,1094,1094,Enna,Agira,Benedictine,2,Male,Val di Noto,Count Roger I (Male),Reign of Count Roger I
+Saint Mary of the Latins at Polizzi,No,13.99922,37.811967,0,Priory,the Virgin Mary,1151,1151,Palermo,Polizzi Generosa,Benedictine,2,Male,Val di Mazara,,Reign of King Roger II
+Saint Philip of Capizzi,No,14.47828,37.848816,0,Priory,Saint Philip,1151,1151,Messina,Capizzi,Benedictine,2,Male,Val Demone,,Reign of King Roger II
+Holy Cross of Rasacambri,No,14.524197,36.828956,0,Priory,the Holy Cross,1151,1151,Ragusa,Ragusa,Benedictine,2,Male,Val di Noto,Count of Ragusa Silvester of Marsico (Male),Reign of King Roger II
+Saint Mary of the Latins,No,15.5210473,38.190827,0,Priory,the Virgin Mary,1168,1168,Messina,Messina,Benedictine,1,Male,Val Demone,,Regency of Queen Margaret of Navarre
+Saint Andrew at Piazza Armerina,Yes,14.36291,37.391941,662,Priory,Saint Andrew,1148,1148,Enna,Piazza Armerina,Augustinian Canons,2,Male,Val di Noto,Count of Butera and Policastro Simon (Male)|Countess of Butera and Policastro Thomasia (Female),Reign of King Roger II
+Saint Elias the Prophet,No,14.8353867,37.663987,0,Priory,Saint Elias,1160,1160,Catania,Adrano,Augustinian Canons,2,Male,Val Demone,Countess Adelasia (Granddaughter of Count Roger I) (Female),Reign of King William I
+Holy Spirit at Caltanissetta,Yes,14.076178,37.506258,572,Priory,the Holy Spirit,1098,1098,Caltanissetta,Caltanissetta,Augustinian Canons,4,Male,Val di Mazara,Count Roger I (Male)|Countess Adelasia (Female),Reign of Count Roger I
+Saint Mary de Baratathe,No,,,,,the Virgin Mary,,,,,Augustinian Canons,,Male,,,
+Saint Mary of Mount Sion,No,15.5210473,38.190827,0,,the Virgin Mary,,,Messina,Messina,Augustinian Canons,1,Male,Val Demone,,
+Saint Anne of Fesime,No,14.469397,37.474889,0,,Saint Anne,,,Enna?,Aidone?,Augustinian Canons,,Male,Val di Noto?,,
+Unknown,No,14.8422705,37.293582,0,Temple,,,,Catania,Scordia,Knights Templar,2,Male,Val di Noto,,
+Hospital of Saint John the Baptist of Jerusalem,No,15.5210473,38.190827,0,Hospital,Saint John the Baptist,,,Messina,Messina,Knights of the Hospital of Saint John of Jerusalem,1,Male,Val Demone,,
+Hospital of All Saints at Palermo,No,13.3614322,38.110431,0,Hospital,All Saints,1181,1181,Palermo,Palermo,Knights of the Hospital of Saint John of Jerusalem,2,Male,Val di Mazara,,Reign of King William II
+Saint Catherine,No,,,,Hospital,Saint Catherine,,,,,Hospital of Saint Lazarus at Jerusalem,,Male,,,
+Saint Mary of Roccadia,Yes,15.039317,37.260433,0,,,,,Siracusa,Lentini,Cistercian,2,,Val di Noto,,
+Saint Michael of the Val Demone,No,,,,,Saint Michael the Archangel,1080,1080,,,,,,,,Norman Conquest of Sicily
+Saint Mary of Pedale,Yes,13.941816,37.941756,557,Abbey?,the Virgin Mary,1126,1134,Palermo,Collesano,Basilian?,2,,Val Demone,Countess? Adelasia? (Female?),
+Saint Anastasia of Gratteri,Yes,14.085329,37.973348,431,Abbey,Saint Anastasia,1151,1151,Palermo,Castelbuono,Benedictine,2,,Val Demone,Count Roger I (Male),Reign of King Roger II
+Saint Mary of Cava,Yes,14.1198199,37.883805,681,Priory,the Virgin Mary,1039,1147,Palermo,Geraci Siculo,Basilian,2,,Val Demone,,
+Christ the Savior,No,14.5073319,37.809454,0,,Christ,1143,1143,Enna,Cerami,,2,,Val Demone,,Reign of King Roger II
+Saint Nicholas of the Val Demone,No,,,,,Saint Nicholas,,,,,,,,,,
+Saint Philip of Pantano,No,14.8946012,37.568005,0,,Saint Philip,1143,1143,Catania,Patern�,,2,,Val Demone,,Reign of King Roger II
